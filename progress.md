@@ -15,3 +15,4 @@ Day 26 April solution
 Day 27 April solution
 Day 28 April solution
 Day 29 April solution
+Day 30 April solution
