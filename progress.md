@@ -9,3 +9,4 @@ Day 8 solution
 Day 9 solution
 Day 10 solution
 Day 11 solution
+Day 12 solution
