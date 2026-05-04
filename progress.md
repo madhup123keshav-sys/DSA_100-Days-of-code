@@ -17,3 +17,4 @@ Day 28 April solution
 Day 29 April solution
 Day 30 April solution
 Day 1 May solution
+Day 2 May solution
